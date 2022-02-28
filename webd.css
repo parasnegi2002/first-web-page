@@ -1,0 +1,47 @@
+#main{
+    max-width:1280px;
+    max-height:100%;
+    margin:30px auto;
+    padding:15px;
+    background-color:bisque;
+    border-radius:5px;
+  }
+   #title{
+    text-align:center;
+    color:black;
+    
+  }
+   #main>p{
+     text-align:center;
+    font-family:Sans-Serif;
+    color:#A52A2A;
+  }
+   #img-div{
+     font-family:Sans-Serif;
+     max-width:50%;
+     margin:o auto;
+     padding:15px;
+    text-align:center;
+    background-color: bisque;
+   
+    
+  }
+   #image{
+    display:black;
+    max-width:60%;
+    padding-bottom:20px;  
+    text-align:center;
+  }
+   h2{
+      text-align:center;
+      color:#731D1D
+  }
+   #tribute-info > ul li{
+    margin-bottom:10px;
+    line-height:30px;
+    color: black;
+    
+  }
+  body{
+       background-image:-webkit-linear-gradient(left , red ,yellow);
+    }
